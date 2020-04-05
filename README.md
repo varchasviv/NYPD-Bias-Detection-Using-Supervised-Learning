@@ -16,4 +16,4 @@ To read our final report, refer to *CORRECT VERSION -Data Comp - Team 322.ipynb*
 
 # Contributors:
 - Avijit Singh Nalwa (@AvijitNalwa)
-- Varchasvi Vedula (@varchasviv)
+- Varchasvi Vedula (@varchasviv) 
