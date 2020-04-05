@@ -1,4 +1,4 @@
-# NYPD-Data-Comp
+# NYPD-Bias-Detection-using-Supervised-Learning
 DSU/DIPD Data Competition files for Team 322
 
 # Quick Look
